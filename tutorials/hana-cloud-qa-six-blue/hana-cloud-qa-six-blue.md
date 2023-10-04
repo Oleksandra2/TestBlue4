@@ -5,7 +5,7 @@ primary_tag: topic>user-interface
 time: 15
 ---
 
-# Parallel Processing and Parameters six blue
+# Parallel Processing and Parameters six blue test
 <!-- description --> Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 
 ## Prerequisites  
