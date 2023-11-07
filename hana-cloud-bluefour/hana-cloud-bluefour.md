@@ -1,5 +1,5 @@
 ---
-title: Parallel Processing qafour
+title: Parallel Processing bluefour
 description: Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 primary_tag: programming-tool>abap-extensibility
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ] 
